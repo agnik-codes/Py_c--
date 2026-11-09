@@ -1,4 +1,37 @@
 {
     "requests": [],
-    "cabs": []
+    "cabs": [
+        {
+            "driver": "Rahul",
+            "seats": 4,
+            "destination": "Delhi",
+            "time_slot": "Morning",
+            "has_left": false,
+            "passengers": []
+        },
+        {
+            "driver": "Amit",
+            "seats": 3,
+            "destination": "Jaipur",
+            "time_slot": "Evening",
+            "has_left": false,
+            "passengers": []
+        },
+        {
+            "driver": "Priya",
+            "seats": 4,
+            "destination": "Delhi",
+            "time_slot": "Morning",
+            "has_left": false,
+            "passengers": []
+        },
+        {
+            "driver": "Sahil",
+            "seats": 4,
+            "destination": "Delhi",
+            "time_slot": "Evening",
+            "has_left": false,
+            "passengers": []
+        }
+    ]
 }

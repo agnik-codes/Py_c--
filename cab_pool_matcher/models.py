@@ -6,6 +6,7 @@ class RideRequest:
     time_slot: str
     year: int
     request_order: int
+    submitted_at: str = ""
     def __str__(self):
         return (
             f"{self.name} (Year {self.year}, "
